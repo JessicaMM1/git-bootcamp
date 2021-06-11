@@ -3,3 +3,5 @@ Random file random.txt
 Testing gpg key
 
 It works!
+
+Redoing workshop

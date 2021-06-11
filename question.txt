@@ -5,4 +5,9 @@ What makes you excited about programming?
 What is your favorite animal?
 elephant
 
-Redoing github tutorial
+Redoing github tutorial (new-branch)
+
+Squashing: 
+- Commit 1
+- Commit 2
+- commit 3
