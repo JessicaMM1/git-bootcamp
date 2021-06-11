@@ -1,7 +1,8 @@
 What makes you excited about programming?
-
-The challenge of solving problems
+> Solving problems
 
 
 What is your favorite animal?
 elephant
+
+Redoing github tutorial
